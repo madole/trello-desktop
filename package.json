@@ -1,5 +1,5 @@
 {
-  "name": "Trello Desktop",
+  "name": "trello-desktop",
   "version": "1.0.0",
   "description": "A desktop wrapper for Trello in Electron",
   "main": "main.js",
