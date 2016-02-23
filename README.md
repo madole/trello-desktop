@@ -1,30 +1,25 @@
-# electron-quick-start
+# Trello Desktop
 
-**Clone and run for a quick way to see an Electron in action.**
+**Clone and run to get the trello app on your desktop.**
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start) within the Electron documentation.
-
-A basic Electron application needs just these files:
-
-- `index.html` - A web page to render.
-- `main.js` - Starts the app and creates a browser window to render HTML.
-- `package.json` - Points to the app's main file and lists its details and dependencies.
-
-You can learn more about each of these components within the [Quick Start Guide](http://electron.atom.io/docs/latest/tutorial/quick-start).
-
+![Imgur](http://i.imgur.com/1y0ifjp.png)
 ## To Use
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-git clone https://github.com/atom/electron-quick-start
+git clone https://github.com/madole/trello-desktop
 # Go into the repository
-cd electron-quick-start
+cd trello-desktop
 # Install dependencies and run the app
 npm install && npm start
 ```
 
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/latest).
+**Disclosure**
 
-#### License [CC0 (Public Domain)](LICENSE.md)
+_This is a simple electron wrapper around Trello.com_
+
+I was finding that I kept closing my browser or the trello tab during development.
+I needed trello to run on my desktop like an app and it didn't exist.
+I remembered electron can do this so I've set it up to point at trello.com/login and off I go.
