@@ -4,6 +4,9 @@
 
 ![Imgur](http://i.imgur.com/1y0ifjp.png)
 ## To Use
+See instructions here [https://madole.github.io/trello-desktop/](https://madole.github.io/trello-desktop/)
+
+or
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
