@@ -1,0 +1,6 @@
+{
+  "name": "Trello-desktop",
+  "tagline": "Desktop electron wrapper for trello.com",
+  "body": "A mac electron app which wraps Trello so you can use it as a desktop application rather than a web app. \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
