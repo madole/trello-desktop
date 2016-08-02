@@ -12,7 +12,7 @@ let mainWindow;
 
 function createWindow () {
   // Create the browser window.
-  mainWindow = new BrowserWindow({width: 800, height: 600, icon: './assets/icon.png', 'node-integration': false});
+  mainWindow = new BrowserWindow({width: 800, height: 600, icon: './assets/icon.icns', 'node-integration': false});
 
   // and load the index.html of the app.
   mainWindow.loadURL('http://trello.com/login');
